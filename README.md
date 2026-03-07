@@ -1,11 +1,11 @@
 # Free Skills for AI Advertising & Marketing
 
-The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **36 skills** covering every major ad platform and workflow.
+The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **35 skills** covering every major ad platform and workflow.
 
 Drop them into your `.agents/skills/` folder and use them with any AI coding agent. All skills are also built into [Synter](https://syntermedia.ai) — no setup needed.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Skills Count](https://img.shields.io/badge/skills-36-blue.svg)](#available-skills)
+[![Skills Count](https://img.shields.io/badge/skills-35-blue.svg)](#available-skills)
 
 ---
 
@@ -48,7 +48,6 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [video-ad-scriptwriter](skills/video-ad-scriptwriter) | Platform-specific video scripts: 6s bumpers, 15s pre-roll, 30s narrative, TikTok native hooks |
 | [ad-creative-fatigue-detector](skills/ad-creative-fatigue-detector) | Frequency vs CTR decay analysis, creative lifespan prediction, refresh strategy recommendations |
 | [creative-testing](skills/creative-testing) | Cross-platform creative A/B testing with statistical significance analysis |
-| [recording-demo-videos](skills/recording-demo-videos) | Record polished product demos with Playwright — zoom effects, text overlays, smooth scrolling |
 
 ### 💰 Budget & Planning
 
@@ -112,7 +111,7 @@ cp -r skills/attribution-modeling \
 ### Option 2: Copy all skills
 
 ```bash
-# Copy all 36 skills at once
+# Copy all 35 skills at once
 cp -r skills/* your-project/.agents/skills/
 ```
 
@@ -149,7 +148,7 @@ your-project/
 │       │   └── SKILL.md
 │       ├── performance-max-optimizer/
 │       │   └── SKILL.md
-│       └── ... (36 skills)
+│       └── ... (35 skills)
 ├── src/
 └── ...
 ```
