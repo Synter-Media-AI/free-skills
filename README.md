@@ -1,8 +1,8 @@
 # Free Skills for AI Advertising & Marketing
 
-The largest open-source collection of [Amp](https://ampcode.com) skills for advertising, PPC, and marketing automation. **36 skills** covering every major ad platform and workflow.
+The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **36 skills** covering every major ad platform and workflow.
 
-Drop them into your `.agents/skills/` folder and use them with any Amp-powered project. All skills are also available for free inside [Synter](https://syntermedia.ai).
+Drop them into your `.agents/skills/` folder and use them with any AI coding agent. All skills are also built into [Synter](https://syntermedia.ai) — no setup needed.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Skills Count](https://img.shields.io/badge/skills-36-blue.svg)](#available-skills)
@@ -137,7 +137,7 @@ Skills are instruction files (`SKILL.md`) that teach AI coding agents how to per
 - **Reference Data** — formulas, benchmarks, industry data
 - **Examples** — sample commands, scripts, and expected outputs
 
-When you place a skill in `.agents/skills/<name>/SKILL.md`, Amp automatically loads it when your request matches the skill's description.
+When you place a skill in `.agents/skills/<name>/SKILL.md`, Synter automatically loads it when your request matches the skill's description.
 
 ```
 your-project/

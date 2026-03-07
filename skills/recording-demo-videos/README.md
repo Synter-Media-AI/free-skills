@@ -6,7 +6,7 @@ Record polished product demo videos using Playwright's built-in video capture. I
 
 ```
 recording-demo-videos/
-├── .agents/skills/recording-demo-videos/SKILL.md   # Amp skill file
+├── .agents/skills/recording-demo-videos/SKILL.md   # Synter skill file
 ├── helpers/video-helpers.ts                          # Reusable helpers
 ├── examples/welcome-video.spec.ts                    # Full example spec
 ├── components/VideoModal.tsx                         # React modal for playback
@@ -145,7 +145,7 @@ test("Product Demo", async ({ page }) => {
 });
 ```
 
-## Using the Amp Skill
+## Using the Skill
 
 Drop the skill into your project:
 
@@ -155,7 +155,7 @@ cp .agents/skills/recording-demo-videos/SKILL.md \
   your-project/.agents/skills/recording-demo-videos/
 ```
 
-Then ask Amp: _"Record a demo video showing the settings page"_
+Then ask the agent: _"Record a demo video showing the settings page"_
 
 ## License
 
