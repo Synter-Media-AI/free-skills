@@ -407,3 +407,16 @@ Score = 0.137 + 0.300 + 0.025 + 0.098 = 0.560 (Severe)
 1. Meta "Hero Video" → replace immediately (Day 22, severe)
 2. TikTok "Demo Clip" → replace within 3 days (Day 11, fast decay)
 3. LinkedIn "Whitepaper CTA" → prepare replacement (Day 31, moderate)
+
+
+---
+
+## About this skill
+
+Part of the [Synter free skills collection](https://github.com/Synter-Media-AI/free-skills) — open-source agent skills for advertising, PPC, and marketing automation.
+
+**Want this skill (and 40+ more) running on autopilot against your live ad accounts?** Try [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills) — AI Agent Media Buyers that connect to Google, Meta, LinkedIn, TikTok, Reddit, Amazon, and 7+ more platforms.
+
+- 🌐 [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills)
+- 📚 [All free skills](https://github.com/Synter-Media-AI/free-skills)
+- 💬 Built by [@syntermedia](https://twitter.com/syntermedia) — questions? Open an [issue](https://github.com/Synter-Media-AI/free-skills/issues).

@@ -2,7 +2,9 @@
 
 The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **43 skills** covering every major ad platform and workflow.
 
-Drop them into your `.agents/skills/` folder and use them with any AI coding agent. All skills are also built into [Synter](https://syntermedia.ai) — no setup needed.
+Drop them into your `.agents/skills/` folder and use them with any AI coding agent. All skills are also built into [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme&utm_campaign=free_skills) — connected live to your ad accounts, no setup needed.
+
+> 🚀 **Use these skills against your live ad accounts in one click → [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_top&utm_campaign=free_skills)**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Skills Count](https://img.shields.io/badge/skills-43-blue.svg)](#available-skills)
@@ -131,13 +133,15 @@ cp -r skills/* your-project/.agents/skills/
 
 ### Option 3: Use in Synter (no setup needed)
 
-All skills are built into [Synter](https://syntermedia.ai). Just sign up and ask the AI agent:
+All skills are built into [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_install&utm_campaign=free_skills) and connected live to Google, Meta, LinkedIn, TikTok, Reddit, Amazon, and 7+ more ad platforms. Just sign up and ask the AI agent:
 
 - *"Calculate my ROAS for last month's campaigns"*
 - *"Audit my Google Ads account structure"*
 - *"Design a retargeting funnel for my e-commerce site"*
 - *"Build a media plan for Q2 with $50k budget"*
 - *"Check if my Meta Pixel and CAPI are set up correctly"*
+
+**[→ Try Synter free](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_install&utm_campaign=free_skills)**
 
 ---
 
@@ -191,6 +195,15 @@ Have a useful marketing or advertising skill? Open a PR! Each skill should inclu
 
 ## License
 
-MIT
+MIT — use these skills however you want. A link back to [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_footer&utm_campaign=free_skills) is appreciated but not required.
 
-Built by [Synter](https://syntermedia.ai) — AI Agent Media Buyers for advertising.
+---
+
+## Built by Synter
+
+[Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_footer&utm_campaign=free_skills) is **AI Agent Media Buyers** — autonomous agents that run, optimize, and report on paid campaigns across every major ad platform. These skills are the public, framework-level version of the playbooks our agents run every day.
+
+- 🌐 **Website:** [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_footer&utm_campaign=free_skills)
+- 💼 **Use case:** Agencies, SaaS marketers, ecommerce — anyone running paid ads on more than one platform
+- 🐦 **Twitter:** [@syntermedia](https://twitter.com/syntermedia)
+- 📺 **MCP server:** [github.com/Synter-Media-AI/mcp-server](https://github.com/Synter-Media-AI/mcp-server) — plug Synter directly into Claude Desktop / Cursor / Amp

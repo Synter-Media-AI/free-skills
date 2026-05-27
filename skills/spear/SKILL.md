@@ -115,3 +115,16 @@ When applying SPEAR in a user-visible thread, surface only the **gates that just
 ```
 
 Skip phases the user already approved. Show the rubric table fully on each `Assess` round so the user can spot a regression.
+
+
+---
+
+## About this skill
+
+Part of the [Synter free skills collection](https://github.com/Synter-Media-AI/free-skills) — open-source agent skills for advertising, PPC, and marketing automation.
+
+**Want this skill (and 40+ more) running on autopilot against your live ad accounts?** Try [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills) — AI Agent Media Buyers that connect to Google, Meta, LinkedIn, TikTok, Reddit, Amazon, and 7+ more platforms.
+
+- 🌐 [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills)
+- 📚 [All free skills](https://github.com/Synter-Media-AI/free-skills)
+- 💬 Built by [@syntermedia](https://twitter.com/syntermedia) — questions? Open an [issue](https://github.com/Synter-Media-AI/free-skills/issues).

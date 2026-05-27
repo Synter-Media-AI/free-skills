@@ -298,3 +298,16 @@ Attribution(channel) = Removal Effect(channel) / Σ Removal Effect(all channels)
 - Meta DDA credit: 210 conversions (60%)
 - Google DDA credit: 140 conversions (40%)
 - Total matches GA4: 350
+
+
+---
+
+## About this skill
+
+Part of the [Synter free skills collection](https://github.com/Synter-Media-AI/free-skills) — open-source agent skills for advertising, PPC, and marketing automation.
+
+**Want this skill (and 40+ more) running on autopilot against your live ad accounts?** Try [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills) — AI Agent Media Buyers that connect to Google, Meta, LinkedIn, TikTok, Reddit, Amazon, and 7+ more platforms.
+
+- 🌐 [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills)
+- 📚 [All free skills](https://github.com/Synter-Media-AI/free-skills)
+- 💬 Built by [@syntermedia](https://twitter.com/syntermedia) — questions? Open an [issue](https://github.com/Synter-Media-AI/free-skills/issues).

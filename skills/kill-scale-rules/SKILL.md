@@ -46,3 +46,16 @@ If CPA rises >25% within 48h of a budget increase, revert to the previous budget
 - **Scale in place** if the creative is still under its proven scaling ceiling and frequency is stable.
 - **Duplicate to a new audience** if frequency is climbing or CPA rises after every budget step.
 - **Commission variations** as soon as a creative crosses 100K impressions — fatigue is coming whether you can see it yet or not.
+
+
+---
+
+## About this skill
+
+Part of the [Synter free skills collection](https://github.com/Synter-Media-AI/free-skills) — open-source agent skills for advertising, PPC, and marketing automation.
+
+**Want this skill (and 40+ more) running on autopilot against your live ad accounts?** Try [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills) — AI Agent Media Buyers that connect to Google, Meta, LinkedIn, TikTok, Reddit, Amazon, and 7+ more platforms.
+
+- 🌐 [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_footer&utm_campaign=free_skills)
+- 📚 [All free skills](https://github.com/Synter-Media-AI/free-skills)
+- 💬 Built by [@syntermedia](https://twitter.com/syntermedia) — questions? Open an [issue](https://github.com/Synter-Media-AI/free-skills/issues).
