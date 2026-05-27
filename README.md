@@ -1,13 +1,13 @@
 # Free Skills for AI Advertising & Marketing
 
-The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **43 skills** covering every major ad platform and workflow.
+The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **47 skills** covering every major ad platform and workflow.
 
 Drop them into your `.agents/skills/` folder and use them with any AI coding agent. All skills are also built into [Synter](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme&utm_campaign=free_skills) — connected live to your ad accounts, no setup needed.
 
 > 🚀 **Use these skills against your live ad accounts in one click → [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_top&utm_campaign=free_skills)**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Skills Count](https://img.shields.io/badge/skills-43-blue.svg)](#available-skills)
+[![Skills Count](https://img.shields.io/badge/skills-47-blue.svg)](#available-skills)
 [![skills.sh](https://skills.sh/b/synter-media-ai/free-skills)](https://skills.sh/synter-media-ai/free-skills)
 
 ---
@@ -19,6 +19,7 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | Skill | Description |
 |-------|-------------|
 | [spear](skills/spear) | SPEAR loop (Scope, Plan, Execute, Assess, Resolve) — meta-framework that forces a MECE rubric and Plan→Execute→Assess inner loop so agents stop strong-start-weak-finish |
+| [spec-driven-dev](skills/spec-driven-dev) | Spec-first dev workflow — spec lookup, ambiguity surfacing, plan approval before writing any code |
 
 ### 📊 Measurement & Attribution
 
@@ -98,6 +99,8 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 |-------|-------------|
 | [multi-channel-reporting](skills/multi-channel-reporting) | Cross-channel performance reports and executive summaries across all platforms |
 | [executive-reporting](skills/executive-reporting) | C-suite report templates with narrative insights, YoY/MoM comparisons, and visualization guidance |
+| [gtm-metrics](skills/gtm-metrics) | GTM measurement framework for AI products — pipeline efficiency, TTFV, CAC/LTV/NRR, magic number, attribution, weekly review cadence |
+| [cross-platform-attribution](skills/cross-platform-attribution) | Diagnose attribution gaps between ad platforms and CRM — data-source hierarchy, UTM/pixel issues, last-click vs data-driven |
 
 ### 🛡️ Compliance & Policy
 
@@ -111,6 +114,7 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 |-------|-------------|
 | [cross-platform-launcher](skills/cross-platform-launcher) | Deploy campaigns to multiple ad platforms simultaneously |
 | [retargeting-sequence-designer](skills/retargeting-sequence-designer) | Multi-stage retargeting funnels with sequential messaging, frequency caps, and exclusion lists |
+| [multi-platform-launch](skills/multi-platform-launch) | Product launch playbook — Product Hunt, Hacker News, BetaList, AppSumo, waitlist, launch day, post-launch |
 
 ---
 
@@ -127,7 +131,7 @@ cp -r skills/attribution-modeling \
 ### Option 2: Copy all skills
 
 ```bash
-# Copy all 43 skills at once
+# Copy all 47 skills at once
 cp -r skills/* your-project/.agents/skills/
 ```
 
@@ -166,7 +170,7 @@ your-project/
 │       │   └── SKILL.md
 │       ├── performance-max-optimizer/
 │       │   └── SKILL.md
-│       └── ... (43 skills)
+│       └── ... (47 skills)
 ├── src/
 └── ...
 ```

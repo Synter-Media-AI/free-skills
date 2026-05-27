@@ -64,7 +64,7 @@ Each item is scored **1–10**. Only **10/10 is a pass.** Anything else = the in
 
 ## Worked example — applying SPEAR to a code task
 
-See `examples/slack-bot-parity.md` for a full SPEAR run on the Phase 1 Slack-agent parity fix, including the MECE rubric, two inner-loop iterations, and Resolve.
+See `examples/agent-bug-fix.md` for a full SPEAR run on a representative agent bug (multi-surface default mismatch), including the MECE rubric, two inner-loop iterations, and Resolve.
 
 ## Anti-patterns that defeat SPEAR
 
