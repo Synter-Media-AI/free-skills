@@ -1,6 +1,11 @@
+---
+name: tracking-leak-detector
+description: Detect gaps between expected and actual conversion tracking across ad platforms (Meta, Google, LinkedIn, TikTok, Reddit) and CRMs. Surfaces blind spots in pixel/CAPI/Enhanced Conversions that silently erode ROAS measurement.
+---
+
 # Tracking Leak Detector
 
-One-line description: Detects gaps between expected and actual conversion tracking across all ad platforms and CRMs. Surfaces blind spots that silently erode ROAS measurement.
+Detects gaps between expected and actual conversion tracking across all ad platforms and CRMs. Surfaces blind spots that silently erode ROAS measurement.
 
 ---
 

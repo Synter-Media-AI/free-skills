@@ -1,3 +1,8 @@
+---
+name: public-ad-library-intelligence
+description: Research competitor ad creative using public ad libraries (Meta Ad Library, Google Ads Transparency, LinkedIn, TikTok, Reddit). Summarize hook patterns, offers, proof points, and CTAs without copying — then convert into original creative concepts.
+---
+
 # Public Ad Library Intelligence
 
 Use this skill when researching competitor ad creative, public ad libraries, ad transparency centers, Adyntel, Apify, or competitor-inspired CreativeKit planning.
