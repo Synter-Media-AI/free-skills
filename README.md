@@ -1,15 +1,22 @@
 # Free Skills for AI Advertising & Marketing
 
-The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **35 skills** covering every major ad platform and workflow.
+The largest open-source collection of AI agent skills for advertising, PPC, and marketing automation. **43 skills** covering every major ad platform and workflow.
 
 Drop them into your `.agents/skills/` folder and use them with any AI coding agent. All skills are also built into [Synter](https://syntermedia.ai) — no setup needed.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Skills Count](https://img.shields.io/badge/skills-35-blue.svg)](#available-skills)
+[![Skills Count](https://img.shields.io/badge/skills-43-blue.svg)](#available-skills)
+[![skills.sh](https://skills.sh/b/synter-media-ai/free-skills)](https://skills.sh/synter-media-ai/free-skills)
 
 ---
 
 ## Available Skills
+
+### 🧭 Agent Workflow
+
+| Skill | Description |
+|-------|-------------|
+| [spear](skills/spear) | SPEAR loop (Scope, Plan, Execute, Assess, Resolve) — meta-framework that forces a MECE rubric and Plan→Execute→Assess inner loop so agents stop strong-start-weak-finish |
 
 ### 📊 Measurement & Attribution
 
@@ -30,6 +37,7 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [google-shopping-optimizer](skills/google-shopping-optimizer) | Product feed optimization, Merchant Center diagnostics, disapproval fixing, custom label strategies |
 | [linkedin-ads-targeting](skills/linkedin-ads-targeting) | B2B targeting strategy, ABM setup, Lead Gen Forms, Matched Audiences, cost benchmarks |
 | [amazon-ads-optimizer](skills/amazon-ads-optimizer) | Sponsored Products/Brands/Display optimization, ACOS/TACOS analysis, search term mining |
+| [klaviyo-campaigns](skills/klaviyo-campaigns) | Klaviyo email/SMS campaign setup, flow design, segmentation, deliverability checks |
 
 ### 🏗️ Account Structure & Hygiene
 
@@ -48,6 +56,7 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [video-ad-scriptwriter](skills/video-ad-scriptwriter) | Platform-specific video scripts: 6s bumpers, 15s pre-roll, 30s narrative, TikTok native hooks |
 | [ad-creative-fatigue-detector](skills/ad-creative-fatigue-detector) | Frequency vs CTR decay analysis, creative lifespan prediction, refresh strategy recommendations |
 | [creative-testing](skills/creative-testing) | Cross-platform creative A/B testing with statistical significance analysis |
+| [ui-contrast-review](skills/ui-contrast-review) | WCAG contrast audits for ad creatives and landing pages, accessibility scoring, fix recommendations |
 
 ### 💰 Budget & Planning
 
@@ -58,6 +67,8 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [media-plan-builder](skills/media-plan-builder) | Full media plan creation: channel mix, budget allocation, CPM/CPC projections, reach estimates |
 | [dayparting-scheduler](skills/dayparting-scheduler) | Hour-of-day and day-of-week bid scheduling with heat map analysis and modifier calculations |
 | [seasonal-budget-planner](skills/seasonal-budget-planner) | Holiday season budget scaling, CPM inflation forecasting, pre-season → peak → post-season strategy |
+| [mmm-budget-planner](skills/mmm-budget-planner) | Marketing Mix Modeling with Google's open-source Meridian — causal ROI estimates, budget optimization, forward projections |
+| [kill-scale-rules](skills/kill-scale-rules) | Decision rules for when to kill, scale, or hold campaigns based on spend, CPA, and statistical confidence |
 
 ### 🔎 Research & Analysis
 
@@ -66,6 +77,8 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [keyword-research](skills/keyword-research) | Discover high-intent keywords via Google Keyword Planner with competition analysis |
 | [competitor-analysis](skills/competitor-analysis) | Analyze competitor ads using Facebook Ads Library and auction insights |
 | [audience-expansion-strategy](skills/audience-expansion-strategy) | Lookalike audiences, seed quality optimization, audience layering, platform-specific features |
+| [public-ad-library-intelligence](skills/public-ad-library-intelligence) | Mine Meta, TikTok, Google, LinkedIn ad libraries for competitor creative patterns, hooks, and offers |
+| [platform-cost-benchmarks](skills/platform-cost-benchmarks) | CPM/CPC/CPA benchmarks by industry, platform, and objective for media planning sanity checks |
 
 ### ⚙️ Tracking & Data
 
@@ -75,6 +88,7 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [utm-builder](skills/utm-builder) | Generate UTM-tagged URLs for campaign tracking with bulk generation and naming conventions |
 | [first-party-data-strategy](skills/first-party-data-strategy) | Post-cookie data strategy: Enhanced Conversions, server-side tracking, Consent Mode v2, CDPs |
 | [landing-page-optimizer](skills/landing-page-optimizer) | Above-the-fold optimization, message match scoring, form optimization, page speed impact |
+| [tracking-leak-detector](skills/tracking-leak-detector) | Diagnose missing pageviews, broken pixel fires, attribution leaks across GA4, Meta Pixel, GTM, and ad platforms |
 
 ### 📈 Reporting
 
@@ -111,7 +125,7 @@ cp -r skills/attribution-modeling \
 ### Option 2: Copy all skills
 
 ```bash
-# Copy all 35 skills at once
+# Copy all 43 skills at once
 cp -r skills/* your-project/.agents/skills/
 ```
 
@@ -148,7 +162,7 @@ your-project/
 │       │   └── SKILL.md
 │       ├── performance-max-optimizer/
 │       │   └── SKILL.md
-│       └── ... (35 skills)
+│       └── ... (43 skills)
 ├── src/
 └── ...
 ```

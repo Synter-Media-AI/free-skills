@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Contrast Review"
+  short_description: "Audit light/dark theme contrast and readability issues."
+  default_prompt: "Review this UI for contrast and readability problems in both light and dark themes."
