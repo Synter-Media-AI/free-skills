@@ -7,7 +7,7 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 > 🚀 **Use these skills against your live ad accounts in one click → [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=readme_top&utm_campaign=free_skills)**
 
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Skills Count](https://img.shields.io/badge/skills-47-blue.svg)](#available-skills)
+[![Skills Count](https://img.shields.io/badge/skills-49-blue.svg)](#available-skills)
 [![skills.sh](https://skills.sh/b/synter-media-ai/free-skills)](https://skills.sh/synter-media-ai/free-skills)
 
 ---
@@ -115,6 +115,13 @@ Drop them into your `.agents/skills/` folder and use them with any AI coding age
 | [cross-platform-launcher](skills/cross-platform-launcher) | Deploy campaigns to multiple ad platforms simultaneously |
 | [retargeting-sequence-designer](skills/retargeting-sequence-designer) | Multi-stage retargeting funnels with sequential messaging, frequency caps, and exclusion lists |
 | [multi-platform-launch](skills/multi-platform-launch) | Product launch playbook — Product Hunt, Hacker News, BetaList, AppSumo, waitlist, launch day, post-launch |
+
+### 💬 ChatGPT Ads
+
+| Skill | Description |
+|-------|-------------|
+| [chatgpt-ads-launch](skills/chatgpt-ads-launch) | Turn existing Google/Meta/Microsoft text ads and your website into an upload-ready ChatGPT Ads campaign workbook: the full 9-step golden-path workflow with copy/paste prompts, context hints (not keywords), and 100+ reviewed ads |
+| [chatgpt-ads-conversion-tracking](skills/chatgpt-ads-conversion-tracking) | Scale-phase measurement for ChatGPT Ads: Conversions API (server-side) vs JavaScript Pixel (client-side), event selection, and rollout without delaying launch |
 
 ---
 
