@@ -1,0 +1,16 @@
+version: 2.1
+
+jobs:
+  validate-skills:
+    docker:
+      - image: cimg/base:current
+    steps:
+      - checkout
+      - run:
+          name: Validate skill content integrity
+          command: ./.circleci/validate-skills.sh
+
+workflows:
+  validate-content:
+    jobs:
+      - validate-skills
