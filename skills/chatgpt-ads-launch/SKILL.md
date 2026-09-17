@@ -9,6 +9,10 @@ Turn existing text ads and website content into an upload-ready ChatGPT Ads camp
 
 You are not just rewriting Google or Meta ads. You are building an upload-ready campaign supported by existing ads and the website, with enough creative variety to match the many ways people ask about the same need in ChatGPT and the way the relevancy algorithm looks to match.
 
+## Synter MCP (live accounts)
+
+For live OpenAI Ads reporting and gated ops after workbook upload, complete `synter-mcp-setup`, then use `openai-ads-operator` (`pull_openai_ads_performance`). Hosted path: [syntermedia.ai](https://syntermedia.ai?utm_source=skills_sh&utm_medium=skill_body&utm_campaign=chatgpt_ads) — Solo / Scale / Crucible Managed (never a Free cloud tier).
+
 ## Before anything launches
 
 This workflow drafts assets. **A qualified human on the team must review every ad, context hint, URL, and image for accuracy, completeness, brand fit, policy compliance, and any required legal/commercial approval before upload.** Chat-generated drafts can contain errors, miss qualifiers, or overstate claims. Passing formatting checks is not launch approval.
