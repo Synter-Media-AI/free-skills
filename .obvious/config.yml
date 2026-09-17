@@ -1,0 +1,4 @@
+# Obvious repository policy — generated during onboarding (2026-08-27)
+defaultBranch: main
+mergeMethod: squash
+requireHumanMerge: true
